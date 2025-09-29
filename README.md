@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Shafrin Akter
 
-![Shafrin](./shafrin.png)
+![Shafrin](./Shopify-is-the-Best-eCommerce-platform.png)
 
 ---
 
