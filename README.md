@@ -61,7 +61,7 @@ Right now, I'm diving deeper into advanced Shopify theme development and store p
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shafrin-akter)  
-- 📧 Email: shafrin@ecommerized.com  
+- 📧 Email: shafrinakterr@gmail.com  
 
 ---
 
