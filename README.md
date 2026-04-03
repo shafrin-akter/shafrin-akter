@@ -7,7 +7,7 @@
 ## 📈 Current GitHub Status
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shafrin-akter&theme=whatsapp-light" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shafrin-akter&theme=whatsapp-light" alt="GitHub Streak" /></a>
   
 </p>
 
