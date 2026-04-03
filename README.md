@@ -7,8 +7,8 @@
 ## 📈 Current GitHub Status
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafirn-Akter&theme=whatsapp-light&hide_border=true" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shafrin-akter&theme=whatsapp-light" alt="GitHub Streak" /></a>
+  <img width="60%" src="[https://github-readme-streak-stats.herokuapp.com?user=Shafirn-Akter&theme=whatsapp-light&hide_border=true](https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shafrin-akter&theme=whatsapp-light)" />
+  
 </p>
 
 ---
